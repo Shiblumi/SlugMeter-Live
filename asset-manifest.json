@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.930f7662.css",
-    "main.js": "/static/js/main.a02eed3f.js",
+    "main.js": "/static/js/main.e7473bc0.js",
     "static/media/Jacob_Herman_PFP.jpg": "/static/media/Jacob_Herman_PFP.2b2b27dc4ca6d8c38603.jpg",
     "static/media/Kaito_Kudo_PFP.jpg": "/static/media/Kaito_Kudo_PFP.09db351fbd626e13e89c.jpg",
     "static/media/Arul_Bangari_PFP.jpg": "/static/media/Arul_Bangari_PFP.7b0f6ef5f8fca757d2e6.jpg",
@@ -11,10 +11,10 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.930f7662.css.map": "/static/css/main.930f7662.css.map",
-    "main.a02eed3f.js.map": "/static/js/main.a02eed3f.js.map"
+    "main.e7473bc0.js.map": "/static/js/main.e7473bc0.js.map"
   },
   "entrypoints": [
     "static/css/main.930f7662.css",
-    "static/js/main.a02eed3f.js"
+    "static/js/main.e7473bc0.js"
   ]
 }
